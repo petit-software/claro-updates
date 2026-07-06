@@ -7,12 +7,12 @@
         <language>en</language>
         <item>
             <title>1.3</title>
-            <pubDate>Mon, 06 Jul 2026 22:26:00 +0200</pubDate>
+            <pubDate>Mon, 06 Jul 2026 22:41:02 +0200</pubDate>
             <link>https://github.com/petit-software/claro-updates/releases</link>
-            <sparkle:version>7</sparkle:version>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.3.0/Claro-1.3.dmg" length="4103976" type="application/octet-stream" sparkle:edSignature="1n1XkWA+a0ZUuHtQygcG8sVTjgHoPXINdNUNwm8ZYY98fCxaden0p3k/+c1xnxg21TQzGl5PGf9ipV4AfKbzDw=="/>
+            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.3.0/Claro-1.3.dmg" length="4104039" type="application/octet-stream" sparkle:edSignature="87+NgNZMCTtitzK7fq2oJ324v1YBs8IJdZfjr2CQSp2lVOdl+h0tkkSd4HPtspAJVcGmU8qhhB3ob5y1NTRFAw=="/>
         </item>
     </channel>
 </rss>
