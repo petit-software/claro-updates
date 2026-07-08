@@ -6,13 +6,13 @@
         <description>Claro app update feed.</description>
         <language>en</language>
         <item>
-            <title>1.3</title>
-            <pubDate>Mon, 06 Jul 2026 22:41:02 +0200</pubDate>
+            <title>1.4</title>
+            <pubDate>Wed, 08 Jul 2026 13:16:39 +0200</pubDate>
             <link>https://github.com/petit-software/claro-updates/releases</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.3.0/Claro-1.3.dmg" length="4104039" type="application/octet-stream" sparkle:edSignature="87+NgNZMCTtitzK7fq2oJ324v1YBs8IJdZfjr2CQSp2lVOdl+h0tkkSd4HPtspAJVcGmU8qhhB3ob5y1NTRFAw=="/>
+            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.4.0/Claro-1.4.dmg" length="4146370" type="application/octet-stream" sparkle:edSignature="+0sOnL54uv6kMf7tSPqCRHOdigaunh+VSS1buIcpOjpXZ139b7/zFBVgoVPDFiieCDLPOvmfpz8CS290SjhGDQ=="/>
         </item>
     </channel>
 </rss>
