@@ -6,6 +6,15 @@
         <description>Claro app update feed.</description>
         <language>en</language>
         <item>
+            <title>1.43</title>
+            <pubDate>Wed, 22 Jul 2026 14:59:40 +0200</pubDate>
+            <link>https://github.com/petit-software/claro-updates/releases</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.43.0/Claro-1.43.dmg" length="4096446" type="application/octet-stream" sparkle:edSignature="ozqjzes4IH4J2bDmAKZXGGx8YS0qVxzh0Pf7FqtfzmsuzthQRP76tgpE/+lGSe1uLL7oKY7j/g2zx3GGQLSPAg=="/>
+        </item>
+        <item>
             <title>1.42</title>
             <pubDate>Mon, 13 Jul 2026 12:05:07 +0200</pubDate>
             <link>https://github.com/petit-software/claro-updates/releases</link>
@@ -22,15 +31,6 @@
             <sparkle:shortVersionString>1.41</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.41.0/Claro-1.41.dmg" length="4162570" type="application/octet-stream" sparkle:edSignature="OHJLAyZAQog0mJHVn7gqWNbK/HlVqHbyaqCdY86dtnU/JP5oHk6+Bwt670vs8QxvKpIdksSy8SbpsxIYvqgnBA=="/>
-        </item>
-        <item>
-            <title>1.4</title>
-            <pubDate>Wed, 08 Jul 2026 13:16:39 +0200</pubDate>
-            <link>https://github.com/petit-software/claro-updates/releases</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.4.0/Claro-1.4.dmg" length="4146370" type="application/octet-stream" sparkle:edSignature="+0sOnL54uv6kMf7tSPqCRHOdigaunh+VSS1buIcpOjpXZ139b7/zFBVgoVPDFiieCDLPOvmfpz8CS290SjhGDQ=="/>
         </item>
     </channel>
 </rss>
