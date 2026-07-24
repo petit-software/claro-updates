@@ -6,6 +6,15 @@
         <description>Claro app update feed.</description>
         <language>en</language>
         <item>
+            <title>1.44</title>
+            <pubDate>Fri, 24 Jul 2026 14:29:59 +0200</pubDate>
+            <link>https://github.com/petit-software/claro-updates/releases</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.44.0/Claro-1.44.dmg" length="4138702" type="application/octet-stream" sparkle:edSignature="2jyE8nB7eZ4Oz/cTlnaflwsiZTIVzd3wPYYVbOiD7h1UsGlr+LMlWnAvXTRi6wF+P3h24lEs+zjC1+81FfoiDQ=="/>
+        </item>
+        <item>
             <title>1.43</title>
             <pubDate>Wed, 22 Jul 2026 14:59:40 +0200</pubDate>
             <link>https://github.com/petit-software/claro-updates/releases</link>
@@ -22,15 +31,6 @@
             <sparkle:shortVersionString>1.42</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.42.0/Claro-1.42.dmg" length="4163329" type="application/octet-stream" sparkle:edSignature="Az96oFycPlDkOljYlX2AOJnwzz0vuXQmqK9LbifHOEBwBvRo8O8yzgqaBpkZFxkn0sPUJYH6O2sFkP2GMrB1Bw=="/>
-        </item>
-        <item>
-            <title>1.41</title>
-            <pubDate>Mon, 13 Jul 2026 11:27:39 +0200</pubDate>
-            <link>https://github.com/petit-software/claro-updates/releases</link>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.41</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.41.0/Claro-1.41.dmg" length="4162570" type="application/octet-stream" sparkle:edSignature="OHJLAyZAQog0mJHVn7gqWNbK/HlVqHbyaqCdY86dtnU/JP5oHk6+Bwt670vs8QxvKpIdksSy8SbpsxIYvqgnBA=="/>
         </item>
     </channel>
 </rss>
