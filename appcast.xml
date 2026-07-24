@@ -12,7 +12,7 @@
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.44</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.44.0/Claro-1.44.dmg" length="4138702" type="application/octet-stream" sparkle:edSignature="2jyE8nB7eZ4Oz/cTlnaflwsiZTIVzd3wPYYVbOiD7h1UsGlr+LMlWnAvXTRi6wF+P3h24lEs+zjC1+81FfoiDQ=="/>
+            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.44.0/Claro-1.44.dmg" length="4150118" type="application/octet-stream" sparkle:edSignature="x0lHEwSSF7KS50KHlO2m+8YkggUjh5uNdop0yTkPRFOecDoypOR2ffIUILhUpfdnVCV3xzErjNW3BD7BarJpAw=="/>
         </item>
         <item>
             <title>1.43</title>
