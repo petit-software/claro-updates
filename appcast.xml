@@ -6,6 +6,15 @@
         <description>Claro app update feed.</description>
         <language>en</language>
         <item>
+            <title>1.53</title>
+            <pubDate>Fri, 31 Jul 2026 22:32:26 +0200</pubDate>
+            <link>https://github.com/petit-software/claro-updates/releases</link>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.53</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.53.0/Claro-1.53.dmg" length="4222953" type="application/octet-stream" sparkle:edSignature="0Kb7AzW9e1Lz5Ez0hvPZ00IqfS2IXUBttThl6zIJpZ+eSr3mAYiWPfTTnudg/ET99VmuAbY36AJq/YUCMOSqCA=="/>
+        </item>
+        <item>
             <title>1.52</title>
             <pubDate>Fri, 31 Jul 2026 20:49:16 +0200</pubDate>
             <link>https://github.com/petit-software/claro-updates/releases</link>
@@ -22,15 +31,6 @@
             <sparkle:shortVersionString>1.51</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.51.0/Claro-1.51.dmg" length="4218533" type="application/octet-stream" sparkle:edSignature="KlEGRX8vjbjTgIMcM/N74k/lzkymmc1hmQFw3tqMWFrb3qGVnl1Q3VHZSwdinLUz4xrGpUZl0CYJQ17hisZ5Ag=="/>
-        </item>
-        <item>
-            <title>1.5</title>
-            <pubDate>Fri, 31 Jul 2026 16:02:31 +0200</pubDate>
-            <link>https://github.com/petit-software/claro-updates/releases</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/petit-software/claro-updates/releases/download/v1.5.0/Claro-1.5.dmg" length="4200122" type="application/octet-stream" sparkle:edSignature="naMATBzfUNTJOZ+ngrbefIkdfPKKxwdk4vc1gwLeUL2o3dqOO9oCf5XXqzu7LM1gw489XQPvfr171wluBjYRDQ=="/>
         </item>
     </channel>
 </rss>
